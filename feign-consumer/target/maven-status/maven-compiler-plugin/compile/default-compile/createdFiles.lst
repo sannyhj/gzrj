@@ -1,0 +1,6 @@
+com\didispace\ConsumerApplication.class
+com\didispace\web\HelloService.class
+com\didispace\web\RefactorHelloService.class
+com\didispace\web\HelloServiceFallback.class
+com\didispace\web\ConsumerController.class
+com\didispace\web\User.class

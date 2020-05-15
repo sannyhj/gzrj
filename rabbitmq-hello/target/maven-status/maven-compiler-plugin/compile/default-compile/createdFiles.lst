@@ -1,0 +1,4 @@
+com\didispace\rabbit\Receiver.class
+com\didispace\rabbit\Sender.class
+com\didispace\HelloApplication.class
+com\didispace\rabbit\RabbitConfig.class

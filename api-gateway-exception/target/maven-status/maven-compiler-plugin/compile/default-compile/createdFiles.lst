@@ -1,0 +1,7 @@
+com\didispace\filter\error\ErrorFilter.class
+com\didispace\filter\post\ThrowExceptionPostFilter.class
+com\didispace\filter\pre\ThrowExceptionFilter.class
+com\didispace\Application.class
+com\didispace\filter\error\ErrorExtFilter.class
+com\didispace\filter\DidiErrorAttributes.class
+com\didispace\filter\DidiFilterProcessor.class
